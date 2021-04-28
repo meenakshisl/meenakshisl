@@ -54,12 +54,13 @@ Meenakshi S L realised her love for cryptography through ‘The Digital Fortress
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenakshisl&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshisl&theme=blue-green" alt="vaulstein" /></p>
 
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshisl&theme=radical" alt="arunsridher" /></p>
+
+ <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshisl&theme=radical" alt="arunsridher" /></p>
  
- <br />
+ <br/><br/><br/><br/><br/><br/> <br/><br/><br/>
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=meenakshisl&theme=blue-green" alt="arunsridher" /></p>
 
