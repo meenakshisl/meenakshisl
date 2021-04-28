@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/MeenakshiSL1">
   <img align="left" alt="Meenakshi S L | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://discordapp.com/users/ph03n1x#3701”>
-         <img align="left" alt="Meenakshi S L | Discord" width="22px" src=
+<a href="https://discordapp.com/users/ph03n1x#3701">
+   <img align="left" alt="Meenakshi S L | Discord" width="22px" src="https://github.com/meenakshisl/meenakshisl/blob/main/assets/discord-seeklogo.com.svg" />
+</a>
 
 
 ![visitors](https://page-views.glitch.me/badge?page_id=meenakshisl.meenakshisl)
