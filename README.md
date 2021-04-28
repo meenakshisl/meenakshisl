@@ -27,18 +27,22 @@ Here are some ideas to get you started:
 
 ![visitors](https://page-views.glitch.me/badge?page_id=meenakshisl.meenakshisl)
 
-Meenakshi S L is a CTF player with [Team bi0s](https://bi0s.in/), the No.1 CTF team in India. She is also a part of [Team Shakti](https://teamshakti.in/), a group of bubbling young female minds set out to make their mark in the cyber world through CTFs, talks and workshops. She is currently pursuing her undergraduate degree in Computer Science Engineering at Amrita University, Kollam, India.
-
-Meenakshi S L realised her love for cryptography through ‘The Digital Fortress’ by Dan Brown and have been in pursuit of problems ever since. She has been a part of the Crypto Team for three years and is excited to share her knowledge with the community. When she's not with a cup of coffee in one hand and a CTF challenge on the other, you can find her on Twitter where she expresses her thoughts to the world.
-<!--
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif" width=1000 hieght=2>
--->
-
+<img align="right" alt="GIF" src="https://github.com/meenakshisl/meenakshisl/blob/main/assets/profile-gif.gif" width=1000 hieght=2>
+</br></br></br></br>
+</br></br>
+</br></br>
+</br></br>
+</br></br>
+</br></br>
+</br></br>
+</br></br>
 </br></br>
 
 
 
+Meenakshi S L is a CTF player with [Team bi0s](https://bi0s.in/), the No.1 CTF team in India. She is also a part of [Team Shakti](https://teamshakti.in/), a group of bubbling young female minds set out to make their mark in the cyber world through CTFs, talks and workshops. She is currently pursuing her undergraduate degree in Computer Science Engineering at Amrita University, Kollam, India.
 
+Meenakshi S L realised her love for cryptography through ‘The Digital Fortress’ by Dan Brown and have been in pursuit of problems ever since. She has been a part of the Crypto Team for three years and is excited to share her knowledge with the community. When she's not with a cup of coffee in one hand and a CTF challenge on the other, you can find her on Twitter where she expresses her thoughts to the world.
 
 ## 🛠 &nbsp;Tech Stack
 
