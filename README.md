@@ -33,34 +33,38 @@ Meenakshi S L realised her love for cryptography through ‘The Digital Fortress
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif" width=1000 hieght=2>
 
-<!--
+
+
+
+
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-<br />
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=CodeIgniter)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-<br />
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=Unity3D&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/C%23%20-05122A?style=flat&logo=c-sharp&logoColor=FFA518)
-<br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br />
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&&logo=HTML5&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&&logo=node.js&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+
 
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunsridher&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenakshisl&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
 
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="arunsridher" /></p>
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshisl&theme=radical" alt="arunsridher" /></p>
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=meenakshisl&theme=blue-green" alt="arunsridher" /></p>
+
+
+ <!-- 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meenakshisl&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
 -->
