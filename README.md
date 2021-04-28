@@ -59,10 +59,9 @@ Meenakshi S L realised her love for cryptography through ‘The Digital Fortress
 
 
  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshisl&theme=radical" alt="arunsridher" /></p>
+
  
- <br/><br/><br/><br/><br/><br/> <br/><br/><br/>
- 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=meenakshisl&theme=blue-green" alt="arunsridher" /></p>
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=meenakshisl&theme=blue-green" alt="arunsridher" /></p>
 
 
  <!-- 
