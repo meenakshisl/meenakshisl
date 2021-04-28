@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
+![visitors](https://page-views.glitch.me/badge?page_id=meenakshisl.meenakshisl)
 
 I am Meenakshi S L. A CTF player with Team Shakti and with team bi0s.
 
