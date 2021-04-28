@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/meenakshisl/">
-  <img align="left" alt="Meenakshi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Meenakshi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/MeenakshiSL1">
-  <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Meenakshi S L | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://discordapp.com/users/ph03n1x#3701”>
+         <img align="left" alt="Meenakshi S L | Discord" width="22px" src=
+
 
 ![visitors](https://page-views.glitch.me/badge?page_id=meenakshisl.meenakshisl)
 
