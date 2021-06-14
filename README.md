@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 
 ![visitors](https://page-views.glitch.me/badge?page_id=meenakshisl.meenakshisl)
 
+<!--
+
 <img align="center" alt="GIF" src="https://github.com/meenakshisl/meenakshisl/blob/main/assets/profile-gif.gif" width=1000 hieght=2>
+-->
 
 
 Meenakshi S L is a CTF player with [Team bi0s](https://bi0s.in/), the No.1 CTF team in India. She is also a part of [Team Shakti](https://teamshakti.in/), a group of bubbling young female minds set out to make their mark in the cyber world through CTFs, talks and workshops. She is currently pursuing her undergraduate degree in Computer Science Engineering at Amrita University, Kollam, India.
